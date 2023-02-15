@@ -1,13 +1,13 @@
-# Stochastic Depth First Search based Recursive backtracking for Maze Generation and Solving
+# Stochastic Depth First Search-based Recursive backtracking for Maze Generation and Solving
 
-Maze Generation and Solving is an exciting problem and countless approaches are out there for the same. The novice greedy method for solving the maze is the DFS apporach, for intuition consider traveling down the path that has been already explored to the furthest and countinuing our exploration down the same path would be a rational descision to reach the destination. At the same time randomly intializing the search paths a number of times will allow the algorithm to be effecient on the overall. 
+Maze Generation and Solving is an exciting problem and countless approaches are out there for the same. The novice greedy method for solving the maze is the DFS approach, for intuition consider traveling down the path that has been already explored to the furthest, and continuing our exploration down the same path would be a rational decision to reach the destination. At the same time randomly initializing the search paths several times will allow the algorithm to be efficient overall. 
 
-This project was aimed at acheiving the following goals,
+This project was aimed at achieving the following goals,
 
 * To implement a maze generator
 * To implement a maze solver
 
->A more significant challenge was attemping to code the tasks in a less familiar programming language (java). To add, the results of the projects must also be apealing.
+>A more significant challenge was attempting to code the tasks in a less familiar programming language (java). To add, the results of the projects must also be appealing.
 
 The following are the results of the project,
 
@@ -19,7 +19,7 @@ The following are the results of the project,
 
 ![Maze solver](https://github.com/genpranav/Recursive-Backtracking-of-DFS-for-Mazes/blob/main/Images/Maze%20solver.jpg)
 
->> The light blue colour depicts the solution to the maze whereas the dark 
+>> The light blue color depicts the solution to the maze whereas the dark 
 blue depicts the paths from which the program backtracked before 
 reaching the solution
 
